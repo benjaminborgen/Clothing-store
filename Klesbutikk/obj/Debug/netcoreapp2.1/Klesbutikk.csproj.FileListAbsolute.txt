@@ -9,3 +9,14 @@
 /Users/Benjamin/Documents/Programmering/C#/Klesbutikk/Klesbutikk/Klesbutikk/obj/Debug/netcoreapp2.1/Klesbutikk.AssemblyInfo.cs
 /Users/Benjamin/Documents/Programmering/C#/Klesbutikk/Klesbutikk/Klesbutikk/obj/Debug/netcoreapp2.1/Klesbutikk.dll
 /Users/Benjamin/Documents/Programmering/C#/Klesbutikk/Klesbutikk/Klesbutikk/obj/Debug/netcoreapp2.1/Klesbutikk.pdb
+/Users/Benjamin/Documents/Programmering/C#/Klesbutikk/Clothing-store/Klesbutikk/bin/Debug/netcoreapp2.1/Klesbutikk.deps.json
+/Users/Benjamin/Documents/Programmering/C#/Klesbutikk/Clothing-store/Klesbutikk/bin/Debug/netcoreapp2.1/Klesbutikk.runtimeconfig.json
+/Users/Benjamin/Documents/Programmering/C#/Klesbutikk/Clothing-store/Klesbutikk/bin/Debug/netcoreapp2.1/Klesbutikk.runtimeconfig.dev.json
+/Users/Benjamin/Documents/Programmering/C#/Klesbutikk/Clothing-store/Klesbutikk/bin/Debug/netcoreapp2.1/Klesbutikk.dll
+/Users/Benjamin/Documents/Programmering/C#/Klesbutikk/Clothing-store/Klesbutikk/bin/Debug/netcoreapp2.1/Klesbutikk.pdb
+/Users/Benjamin/Documents/Programmering/C#/Klesbutikk/Clothing-store/Klesbutikk/obj/Debug/netcoreapp2.1/Klesbutikk.csprojAssemblyReference.cache
+/Users/Benjamin/Documents/Programmering/C#/Klesbutikk/Clothing-store/Klesbutikk/obj/Debug/netcoreapp2.1/Klesbutikk.csproj.CoreCompileInputs.cache
+/Users/Benjamin/Documents/Programmering/C#/Klesbutikk/Clothing-store/Klesbutikk/obj/Debug/netcoreapp2.1/Klesbutikk.AssemblyInfoInputs.cache
+/Users/Benjamin/Documents/Programmering/C#/Klesbutikk/Clothing-store/Klesbutikk/obj/Debug/netcoreapp2.1/Klesbutikk.AssemblyInfo.cs
+/Users/Benjamin/Documents/Programmering/C#/Klesbutikk/Clothing-store/Klesbutikk/obj/Debug/netcoreapp2.1/Klesbutikk.dll
+/Users/Benjamin/Documents/Programmering/C#/Klesbutikk/Clothing-store/Klesbutikk/obj/Debug/netcoreapp2.1/Klesbutikk.pdb

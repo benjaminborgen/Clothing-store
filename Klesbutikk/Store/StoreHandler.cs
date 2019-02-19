@@ -84,7 +84,32 @@ namespace Klesbutikk.Store
         private void Search_brand()
         {
             Console.WriteLine(" - Search_brand function was called");
-            Search_menu_selection();
+            Console.WriteLine("Write brand:");
+            string _brand_name = Console.ReadLine();
+
+            if(_brand_name != null)
+            {
+                Search_brand_name(_brand_name);
+            }
+        }
+
+        private void Search_brand_name(string brand_name)
+        {
+            Console.WriteLine("Search_brand_name function called. {0}", brand_name);
+        }
+
+        private void Search_product_name()
+        {
+            //string product_name = product.GetName();
+            Console.WriteLine(" - Search_product_name function was called\n");
+            Console.WriteLine("Write product name: ");
+            string _product_name = Console.ReadLine();
+
+            if(_product_name != null)
+            {
+                Console.WriteLine(_product_name);
+                Search_product_name(_product_name);
+            }
         }
 
         /* TODO
@@ -92,11 +117,9 @@ namespace Klesbutikk.Store
          * The function should iterate through the list.
          * Create an algorithm that sorts each product by name.
         */
-        private void Search_product_name()
+        private void Search_product_name(string product_name)
         {
-            //string product_name = product.GetName();
-            Console.WriteLine(" - Search_product_name function was called");
-            Search_menu_selection();
+
         }
 
         // TODO create wishlist class
@@ -133,7 +156,6 @@ namespace Klesbutikk.Store
         private void Search()
         {
             Console.WriteLine(" - Search products button pressed.\n");
-            Console.WriteLine("Write product name: ");
             printHandler.SearchMenu();
             Search_menu_selection();
         }

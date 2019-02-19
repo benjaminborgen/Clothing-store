@@ -1,3 +1,14 @@
 ﻿<Properties StartupConfiguration="{240CB013-DB83-434A-8B27-9471487CB932}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Store/StoreHandler.cs">
+    <Files>
+      <File FileName="Store/StoreHandler.cs" Line="98" Column="85" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Klesbutikk PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
