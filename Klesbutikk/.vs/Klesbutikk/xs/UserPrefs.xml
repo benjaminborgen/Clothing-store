@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{240CB013-DB83-434A-8B27-9471487CB932}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Store/StoreHandler.cs">
     <Files>
-      <File FileName="Store/StoreHandler.cs" Line="98" Column="85" />
+      <File FileName="Store/StoreHandler.cs" Line="73" Column="16" />
+      <File FileName="Store/ProductHandler.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Klesbutikk PreferredExecutionTarget="MonoDevelop.Default" />

@@ -6,7 +6,8 @@ namespace Klesbutikk
         string GetArticleNumber();
         string GetName();
         string GetMaterial();
-        double GetPrice(); 
+        double GetPrice();
+        int GetDiscount();
         bool GetGender(); // 0 = female / 1 = male
     }
 }

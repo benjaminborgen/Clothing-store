@@ -69,6 +69,11 @@ namespace Klesbutikk.Store
             }
         }
 
+        /*
+         * TODO       
+         * Display all the products that are on sale.
+         * Search through all the products that are on sale. 
+        */
         private void Search_sale()
         {
             Console.WriteLine(" - Search_sale function was called");
@@ -78,7 +83,23 @@ namespace Klesbutikk.Store
         private void Search_article_number()
         {
             Console.WriteLine(" - Search_article_number function was called");
-            Search_menu_selection();
+            Console.WriteLine("Write product article number: ");
+            string _article_number = Console.ReadLine();
+
+            if (_article_number != null)
+            {
+                Search_article_number(_article_number);
+            }
+        }
+
+        /* TODO
+         * Create a function that searches for a product with the article number.
+         * The function should iterate through the list.
+         * Create an algorithm that sorts each product by name.
+        */
+        private void Search_article_number(string article_number)
+        {
+            Console.WriteLine("You searched for article number: {0}", article_number);
         }
 
         private void Search_brand()
@@ -95,7 +116,7 @@ namespace Klesbutikk.Store
 
         private void Search_brand_name(string brand_name)
         {
-            Console.WriteLine("Search_brand_name function called. {0}", brand_name);
+            Console.WriteLine("You searched for brand: {0}", brand_name);
         }
 
         private void Search_product_name()
@@ -119,16 +140,20 @@ namespace Klesbutikk.Store
         */
         private void Search_product_name(string product_name)
         {
-
+            Console.WriteLine("You searched for product: {0}", product_name);
         }
 
-        // TODO create wishlist class
+        /* TODO create wishlist class
+         * Display the products of the customer and show them in a list with 
+         * the local variables. 
+         */       
         private void Display_wishlist()
         {
             Console.WriteLine("Wishlist button pressed.");
         }
 
-        // TODO create shopping cart
+        /*
+        */
         private void Display_shopping_cart()
         {
             Console.WriteLine("Shopping cart button pressed.");

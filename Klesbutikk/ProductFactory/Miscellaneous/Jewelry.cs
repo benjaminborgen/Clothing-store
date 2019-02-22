@@ -22,6 +22,18 @@ namespace Klesbutikk.ProductFactory.Miscellaneous
         private string _name = "";
         private double _price = 0;
         private bool _gender = false;
+        private int _discount = 0;
+
+        private int GetDiscount()
+        {
+            return _discount;
+        }
+
+        private void SetDiscount(int discount)
+        {
+            _discount = discount;
+        }
+
 
         private void SetGender(bool gender)
         {
