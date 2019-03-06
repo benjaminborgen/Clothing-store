@@ -1,4 +1,6 @@
 ﻿using System;
+using Klesbutikk.ProductFactory;
+using Klesbutikk.Brand;
 namespace Klesbutikk.Store
 {
     public class ProductHandler
@@ -6,5 +8,9 @@ namespace Klesbutikk.Store
         public ProductHandler()
         {
         }
+
+
+
+
     }
 }

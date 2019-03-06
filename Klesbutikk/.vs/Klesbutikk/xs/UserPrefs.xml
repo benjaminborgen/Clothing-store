@@ -1,9 +1,31 @@
 ﻿<Properties StartupConfiguration="{240CB013-DB83-434A-8B27-9471487CB932}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Store/StoreHandler.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProductFactory/Product.cs">
     <Files>
-      <File FileName="Store/StoreHandler.cs" Line="73" Column="16" />
-      <File FileName="Store/ProductHandler.cs" Line="1" Column="1" />
+      <File FileName="Store/StoreHandler.cs" Line="73" Column="12" />
+      <File FileName="Store/ProductHandler.cs" Line="12" Column="9" />
+      <File FileName="ProductFactory/Miscellaneous/Backpacks.cs" Line="29" Column="30" />
+      <File FileName="Brand/Brand.cs" Line="1" Column="1" />
+      <File FileName="Brand/EBrand.cs" Line="8" Column="14" />
+      <File FileName="ProductFactory/Product.cs" Line="24" Column="13" />
+      <File FileName="Brand/IBrand.cs" Line="8" Column="33" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Klesbutikk" expanded="True">
+            <Node name="Klesbutikk" expanded="True">
+              <Node name="Brand" expanded="True" />
+              <Node name="Customer" expanded="True" />
+              <Node name="ProductFactory" expanded="True">
+                <Node name="Miscellaneous" expanded="True" />
+                <Node name="Product.cs" selected="True" />
+              </Node>
+              <Node name="Store" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Klesbutikk PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

@@ -692,7 +692,7 @@
       "projectName": "Klesbutikk",
       "projectPath": "/Users/Benjamin/Documents/Programmering/C#/Klesbutikk/Clothing-store/Klesbutikk/Klesbutikk.csproj",
       "packagesPath": "/Users/Benjamin/.nuget/packages/",
-      "outputPath": "/Users/Benjamin/Documents/Programmering/C#/Klesbutikk/Clothing-store/Klesbutikk/obj",
+      "outputPath": "/Users/Benjamin/Documents/Programmering/C#/Klesbutikk/Clothing-store/Klesbutikk/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -721,7 +721,6 @@
       "netcoreapp2.1": {
         "dependencies": {
           "Microsoft.NETCore.App": {
-            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
