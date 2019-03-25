@@ -1,7 +1,7 @@
 ﻿using System;
 namespace Klesbutikk.Brand
 {
-    public enum EmptyEnumeration
+    public enum EBrand
     {
         Adidas,
         Acne,

@@ -1,4 +1,5 @@
 ﻿using System;
+using Klesbutikk.Brand;
 using Klesbutikk.Store;
 using Klesbutikk.ProductFactory;
 namespace Klesbutikk
@@ -12,6 +13,7 @@ namespace Klesbutikk
         {
             Client client = new Client();
             // Start the program
+            Brand brand = new Brand();
             client.Start();
 
             //client.Exit();
