@@ -11,9 +11,10 @@ namespace Klesbutikk
     {
         static void Main(string[] args)
         {
-            Client client = new Client();
+            var client = new Client();
             // Start the program
-            Brand brand = new Brand();
+            BrandHandler brandHandler = new BrandHandler();
+            
             client.Start();
 
             //client.Exit();

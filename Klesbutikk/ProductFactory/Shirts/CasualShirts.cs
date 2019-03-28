@@ -24,23 +24,23 @@ namespace Klesbutikk.ProductFactory.Shirts
         private bool _gender = false;
         private int _discount = 0;
 
-        private int GetDiscount()
+        public int GetDiscount()
         {
             return _discount;
         }
 
-        private void SetDiscount(int discount)
+        public void SetDiscount(int discount)
         {
             _discount = discount;
         }
 
 
-        private void SetGender(bool gender)
+        public void SetGender(bool gender)
         {
             _gender = gender;
         }
 
-        private void SetPrice(double price)
+        public void SetPrice(double price)
         {
             _price = price;
         }

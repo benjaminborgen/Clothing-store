@@ -1,25 +1,28 @@
 ﻿<Properties StartupConfiguration="{240CB013-DB83-434A-8B27-9471487CB932}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ProductFactory/Miscellaneous/Backpacks.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Brand/BrandHandler.cs">
     <Files>
-      <File FileName="Brand/Brand.cs" Line="22" Column="32" />
-      <File FileName="Program.cs" Line="16" Column="60" />
       <File FileName="Client.cs" Line="1" Column="1" />
-      <File FileName="Store/StoreHandler.cs" Line="113" Column="48" />
+      <File FileName="Brand/BrandHandler.cs" Line="23" Column="38" />
+      <File FileName="Brand/Brand.cs" Line="30" Column="9" />
       <File FileName="ProductFactory/Product.cs" Line="20" Column="10" />
-      <File FileName="Brand/IBrand.cs" Line="8" Column="33" />
-      <File FileName="ProductFactory/Miscellaneous/Backpacks.cs" Line="27" Column="34" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Klesbutikk" expanded="True">
             <Node name="Klesbutikk" expanded="True">
-              <Node name="Brand" expanded="True" />
+              <Node name="Brand" expanded="True">
+                <Node name="BrandHandler.cs" selected="True" />
+              </Node>
               <Node name="Customer" expanded="True" />
               <Node name="ProductFactory" expanded="True">
-                <Node name="Miscellaneous" expanded="True">
-                  <Node name="Backpacks.cs" selected="True" />
-                </Node>
+                <Node name="Footwear" expanded="True" />
+                <Node name="Jackets" expanded="True" />
+                <Node name="Miscellaneous" expanded="True" />
+                <Node name="Pants" expanded="True" />
+                <Node name="Shirts" expanded="True" />
+                <Node name="Sweaters" expanded="True" />
+                <Node name="T-shirts" expanded="True" />
               </Node>
               <Node name="Store" expanded="True" />
             </Node>

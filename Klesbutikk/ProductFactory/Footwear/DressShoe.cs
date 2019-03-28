@@ -25,37 +25,37 @@ namespace Klesbutikk.ProductFactory.Footwear
         private bool _gender = false;
         private int _discount = 0;
 
-        private int GetDiscount()
+        public int GetDiscount()
         {
             return _discount;
         }
 
-        private void SetDiscount(int discount)
+        public void SetDiscount(int discount)
         {
             _discount = discount;
         }
 
-        private void SetGender(bool gender)
+        public void SetGender(bool gender)
         {
             _gender = gender;
         }
 
-        private void SetPrice(double price)
+        public void SetPrice(double price)
         {
             _price = price;
         }
 
-        private void SetName(string name)
+        public void SetName(string name)
         {
             _name = name;
         }
 
-        private void SetMaterial(string material)
+        public void SetMaterial(string material)
         {
             _material = material;
         }
 
-        private void SetArticleNumber(string articleNumeber)
+        public void SetArticleNumber(string articleNumeber)
         {
             _article_number = articleNumeber;
         }

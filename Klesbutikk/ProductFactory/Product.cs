@@ -19,11 +19,6 @@ namespace Klesbutikk.ProductFactory
 
         }
 
-        public void CreateProduct()
-        {
-
-        }
-
         public void CreateRandomProduct()
         {
             randomCategory();
