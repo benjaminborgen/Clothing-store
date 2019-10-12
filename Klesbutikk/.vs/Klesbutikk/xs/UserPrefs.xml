@@ -3,7 +3,7 @@
     <Files>
       <File FileName="Client.cs" Line="1" Column="1" />
       <File FileName="Brand/BrandHandler.cs" Line="23" Column="38" />
-      <File FileName="Brand/Brand.cs" Line="30" Column="9" />
+      <File FileName="Brand/Brand.cs" Line="30" Column="1" />
       <File FileName="ProductFactory/Product.cs" Line="20" Column="10" />
     </Files>
     <Pads>
